@@ -7,4 +7,4 @@ uninstall:
 	pip3 uninstall work-database
 
 clean:
-	rm -r build work_database work_database.egg-info
+	rm -r build work_database.egg-info
